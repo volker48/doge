@@ -15,3 +15,7 @@ The script will then pull the current rate of DOGE to BTC from Cryptsy
 and print out how much doge you can buy with .0018 BTC at the rate of the most
 recent trade. It will also print out the average and median price of the last 
 100 trades.
+
+Much Wow
+========
+such tip DHtm7xwci1CvHcdWKcePUhiGhGYJBT8MjM
